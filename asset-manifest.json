@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/foodFinder/static/css/main.62f7a6f9.chunk.css",
+    "main.js": "/foodFinder/static/js/main.1d00b7b3.chunk.js",
+    "main.js.map": "/foodFinder/static/js/main.1d00b7b3.chunk.js.map",
+    "runtime-main.js": "/foodFinder/static/js/runtime-main.98035c08.js",
+    "runtime-main.js.map": "/foodFinder/static/js/runtime-main.98035c08.js.map",
+    "static/css/2.69121389.chunk.css": "/foodFinder/static/css/2.69121389.chunk.css",
+    "static/js/2.ceef306a.chunk.js": "/foodFinder/static/js/2.ceef306a.chunk.js",
+    "static/js/2.ceef306a.chunk.js.map": "/foodFinder/static/js/2.ceef306a.chunk.js.map",
+    "index.html": "/foodFinder/index.html",
+    "precache-manifest.bee132e513a4a9c0a80bb8b1694c694e.js": "/foodFinder/precache-manifest.bee132e513a4a9c0a80bb8b1694c694e.js",
+    "service-worker.js": "/foodFinder/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/foodFinder/static/css/2.69121389.chunk.css.map",
+    "static/css/main.62f7a6f9.chunk.css.map": "/foodFinder/static/css/main.62f7a6f9.chunk.css.map",
+    "static/js/2.ceef306a.chunk.js.LICENSE.txt": "/foodFinder/static/js/2.ceef306a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98035c08.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.ceef306a.chunk.js",
+    "static/css/main.62f7a6f9.chunk.css",
+    "static/js/main.1d00b7b3.chunk.js"
+  ]
+}
